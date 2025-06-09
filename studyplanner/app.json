@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "studyplanner",
+    "slug": "snack-5712243b-a977-4a82-892c-80274c22fc6c",
+    "sdkVersion": "53.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.snack5712243ba9774a82892c80274c22fc6c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
